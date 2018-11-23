@@ -1,0 +1,10 @@
+C:\Users\vando\source\repos\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+C:\Users\vando\source\repos\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\vando\source\repos\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\vando\source\repos\SocketServer\SocketServer\obj\Debug\SocketServer.csprojAssemblyReference.cache
+C:\Users\vando\source\repos\SocketServer\SocketServer\obj\Debug\SocketServer.Properties.Resources.resources
+C:\Users\vando\source\repos\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.GenerateResource.cache
+C:\Users\vando\source\repos\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\vando\source\repos\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\vando\source\repos\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
+C:\Users\vando\source\repos\SocketServer\SocketServer\obj\Debug\SocketServer.Server.resources
